@@ -1,3 +1,3 @@
 # sample
 
-![Happy Christmas](home.png)
+![Happy Christmas](home.png){:height="50%" width="50%"}
