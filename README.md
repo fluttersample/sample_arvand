@@ -1,5 +1,8 @@
 # sample
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="https://github.com/mohamadali7/sample/blob/main/home.png" width="250"> |    <img src="https://github.com/mohamadali7/sample_arvand/blob/main/detail_post.png" width="250">
 
 <table>
   <tr>
