@@ -1,3 +1,3 @@
 # sample
 
-![Happy Christmas](home.png){:height="700px" width="400px"}
+<img src="https://github.com/mohamadali7/sample/blob/main/home.png" width="48">
