@@ -5,12 +5,12 @@
 | ------------- | ------------- |
 | <img src="https://github.com/mohamadali7/sample_arvand/blob/main/create_post.png" width="250">   |<img src="https://github.com/mohamadali7/sample_arvand/blob/main/create_post_1.png" width="250">   |
 
+
+
 # Login
 | Login  | Register |
 | ------------- | ------------- |
-| <img src="https://github.com/mohamadali7/sample_arvand/blob/main/login.png" width="250">   |
-<img src="https://github.com/mohamadali7/sample_arvand/blob/main/register.png" width="250">   |
-
+| <img src="https://github.com/mohamadali7/sample_arvand/blob/main/login.png" width="250">   |<img src="https://github.com/mohamadali7/sample_arvand/blob/main/register.png" width="250">   |
 # Detail Post
 | Detail  | Continues |
 | ------------- | ------------- |
