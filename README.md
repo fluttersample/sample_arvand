@@ -11,11 +11,14 @@
 | Login  | Register |
 | ------------- | ------------- |
 | <img src="https://github.com/mohamadali7/sample_arvand/blob/main/login.png" width="250">   |<img src="https://github.com/mohamadali7/sample_arvand/blob/main/register.png" width="250">   |
+
+
+
 # Detail Post
-| Detail  | Continues |
+| Detail Post  | Continues |
 | ------------- | ------------- |
-| <img src="https://github.com/mohamadali7/sample_arvand/blob/main/detail_post.png" width="250">   |
-<img src="https://github.com/mohamadali7/sample_arvand/blob/main/detal_post1.png" width="250">   |
+| <img src="https://github.com/mohamadali7/sample_arvand/blob/main/detail_post.png" width="250">   |<img src="https://github.com/mohamadali7/sample_arvand/blob/main/detal_post1.png" width="250">   |
+
 
 
 | Home | Search | Profile |
